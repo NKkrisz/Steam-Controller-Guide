@@ -13,19 +13,23 @@ Information about the Steam Controller's firmware and hardware modifications / r
 
 ## Hardware Modifications / Repairs
 
+### CAD Files / 3D Models
+- [Official CAD Release](https://store.steampowered.com/news/app/353370/view/3931035846865618326)
+- [Additional 3rd Party Models - Includes Missing Ones From The Official Release](https://github.com/MichaelZaugg/OpenSteamController-Continued/tree/master/Mods/CAD-Releases)
+
 ### Joystick
 
 #### Hall Effect / TMR Module Replacement
 
-#### Cap Swap
+#### [Cap Upgrade / Replacement](https://www.youtube.com/shorts/JH8CmCkltzY)
 
 ### Trackpads
 
-#### Quieter And Easier Press
+#### [Quieter And Easier To Press](https://www.youtube.com/shorts/NYpm2bWQAME)
 
-### Shoulder Buttons
+### Bumper Buttons
 
-#### Quieter And Easier Press
+#### [Quieter And Easier To Press](https://www.youtube.com/shorts/ARzfF4CxAJA)
 
 ### Triggers
 
