@@ -19,7 +19,7 @@ Information about the Steam Controller's firmware and hardware modifications / r
 
 ### Joystick
 
-#### Hall Effect / TMR Module Replacement
+#### [Hall Effect / TMR Module Replacement](https://www.reddit.com/r/SteamControllerMods/comments/1drrrtd/replaced_the_joystick_with_hall_effect_sensors_on/)
 
 #### [Cap Upgrade / Replacement](https://www.youtube.com/shorts/JH8CmCkltzY)
 
@@ -37,4 +37,7 @@ Information about the Steam Controller's firmware and hardware modifications / r
 
 ### USB Port
 
-#### Micro USB To USB-C Upgrade
+#### [Micro USB To USB-C Upgrade](https://www.reddit.com/r/SteamControllerMods/comments/1bs75w9/usbc_steam_controller_mod_aluminum_thumbstick/)
+
+## Additional Resources
+- [iFixit Teardown](https://www.ifixit.com/Teardown/Steam+Controller+Teardown/52578)
