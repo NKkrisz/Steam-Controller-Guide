@@ -2,10 +2,17 @@
 Information about the Steam Controller's firmware and hardware modifications / repairs.
 
 ## Firmware Information
+- Initially the controller only worked with a wired connection or wirelessly with a USB receiver
+- [An update was released later](https://help.steampowered.com/en/faqs/view/1796-5FC3-88B3-C85F) so the controller can now be used with Bluetooth Low Energy (BLE) as well
+    - Some guides I found on how to update the firmware in case the method in the link above doesn't work:
+        - [Update Steam Controller firmware after the removal of legacy Big Picture mode](https://www.reddit.com/r/SteamController/comments/17ocq8b/guide_update_steam_controller_firmware_after_the/)
+        - [How to update/configure/link your steam controller](https://steamcommunity.com/sharedfiles/filedetails/?id=3150369779)
 
-### Updating Firmware
-
-### Using Bluetooth / USB Dongle Modes
+### Using Bluetooth / USB Receiver Modes
+- BLE Pairing - Steam + Y
+- Receiver Pairing - Steam + X
+- Switch To BLE Mode - Steam + B
+- Switch To Receiver Mode - Steam + X
 
 ## Disassembling The Controller
 
