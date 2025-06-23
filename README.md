@@ -44,7 +44,10 @@ Information about the Steam Controller's firmware and hardware modifications / r
 
 ### USB Port
 
-#### [Micro USB To USB-C Upgrade](https://www.reddit.com/r/SteamControllerMods/comments/1bs75w9/usbc_steam_controller_mod_aluminum_thumbstick/)
+#### [Usb-C steam controller](https://web.archive.org/web/20201119024700/https://www.reddit.com/r/SteamController/comments/i0pzzy/)
+- [Wiring Guide](https://web.archive.org/web/20220713150853/https://i.imgur.com/dqzbJLd.jpg)
+
+#### [USB-C Steam Controller mod + aluminum thumbstick](https://www.reddit.com/r/SteamControllerMods/comments/1bs75w9/usbc_steam_controller_mod_aluminum_thumbstick/)
 
 ## Additional Resources
 - [iFixit Guides And Teardowns](https://www.ifixit.com/Device/Steam_Controller)
