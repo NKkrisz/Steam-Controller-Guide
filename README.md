@@ -61,6 +61,7 @@ TODO: Add confirmation about it still working & Linux guide
 ### Triggers
 
 ### Front Plate Buttons
+- [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
 
 ### USB Port
 - [Usb-C steam controller](https://web.archive.org/web/20201119024700/https://www.reddit.com/r/SteamController/comments/i0pzzy/)
