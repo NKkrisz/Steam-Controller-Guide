@@ -6,10 +6,13 @@
         - [How to update/configure/link your steam controller](https://steamcommunity.com/sharedfiles/filedetails/?id=3150369779)
 
 ## Using Bluetooth / USB Receiver Modes
-- BLE Pairing - Steam + Y
-- Receiver Pairing - Steam + X
-- Switch To BLE Mode - Steam + B
-- Switch To Receiver Mode - Steam + X
+
+| Mode | Button Combination |
+|---|---|
+| Bluetooth LE Pairing | Y + Steam |
+| Receiver Pairing | X + Steam |
+| Switch To Bluetooth LE | B + Steam
+| Switch To Dongle | A + Steam
 
 ## Settings
 - Steam button LED brightness
