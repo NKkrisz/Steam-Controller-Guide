@@ -1,11 +1,13 @@
 # Steam-Controller
 Information about the Steam Controller's firmware and hardware modifications / repairs.
 
-## [Firmware Information](./Firmware.md)
+## [Firmware](./Firmware.md)
+Information about different connection modes, updating firmware, Bluetooth support etc...
 
-## [Disassembling The Controller](./Disassembly.md)
+## Hardware
+The controller is easily modifiable and repairable with the right tools.
 
-## Hardware Modifications / Repairs
+### [Full Disassembly Guide](./Disassembly.md)
 
 ### [3D Printing Parts](./3D_Printing_Parts.md)
 
