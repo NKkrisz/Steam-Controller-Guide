@@ -89,7 +89,7 @@
 ![Taking_Off_Joystick_Cap](Images/Disassembly/30_Taking_Off_Joystick_Cap.jpg)
 ![Joystick_Cap_Off](Images/Disassembly/31_Joystick_Cap_Off.jpg)
 
-### Taking Off Top Assembly (Top Cover, Shoulder Buttons And Triggers)
+### Taking Off The Top Assembly (Top Cover, Shoulder Buttons And Triggers)
 ![Top_Assembly_Screw_Locations_Edited](Images/Disassembly/32_Top_Assembly_Screw_Locations_Edited.jpg)
 ![Taking_Off_Top_Assembly_Edited](Images/Disassembly/33_Taking_Off_Top_Assembly_Edited.jpg)
 ![Top_Assembly_Off](Images/Disassembly/34_Top_Assembly_Off.jpg)

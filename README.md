@@ -1,5 +1,7 @@
-# Steam-Controller
-Information about the Steam Controller's firmware and hardware modifications / repairs.
+# Steam Controller Guide
+Information about Steam Controller:
+- Firmware
+- Hardware (Modifications / Repairs)
 
 ## [Firmware](./Firmware.md)
 Information about different connection modes, updating firmware, Bluetooth support etc...
@@ -12,14 +14,15 @@ The controller is easily modifiable and repairable with the right tools.
 ### [3D Printing Parts](./3D_Printing_Parts.md)
 
 ### Joystick
-- [Hall Effect / TMR Module Replacement](https://www.reddit.com/r/SteamControllerMods/comments/1drrrtd/replaced_the_joystick_with_hall_effect_sensors_on/)
-- [Cap Upgrade / Replacement](https://www.youtube.com/shorts/JH8CmCkltzY)
+- [Replaced the joystick with Hall Effect sensors on Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1drrrtd/replaced_the_joystick_with_hall_effect_sensors_on/)
+- [Steam Controller: I can has Hall Effect module!](https://lemmy.ml/post/16810625)
+- [Joystick Cap Swap / Upgrade For The Steam Controller](https://www.youtube.com/shorts/JH8CmCkltzY)
 
 ### Trackpads
-- [Quieter And Easier To Press](https://www.youtube.com/shorts/NYpm2bWQAME)
+- [Quieter & Softer Trackpad Mod For The Steam Controller](https://www.youtube.com/shorts/NYpm2bWQAME)
 
 ### Bumper Buttons
-- [Quieter And Easier To Press](https://www.youtube.com/shorts/ARzfF4CxAJA)
+- [Quieter & Softer Bumper Mod For The Steam Controller](https://www.youtube.com/shorts/ARzfF4CxAJA)
 
 ### Front Plate Buttons
 - [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
