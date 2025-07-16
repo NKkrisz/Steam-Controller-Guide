@@ -3,20 +3,19 @@ Information about Steam Controller:
 - Firmware
 - Hardware (Modifications / Repairs)
 
-## [Firmware](./Firmware.md)
+## [Firmware](./Markdown/Firmware.md)
 Information about different connection modes, updating firmware, Bluetooth support etc...
 
 ## Hardware
 The controller is easily modifiable and repairable with the right tools.
 
-### [Full Disassembly Guide](./Disassembly.md)
+### [Full Disassembly Guide](./Markdown/Disassembly.md)
 
-### [3D Printing Parts](./3D_Printing_Parts.md)
+### [3D Printing Parts](./Markdown/3D_Printing_Parts.md)
 
-### Joystick
-- [Replaced the joystick with Hall Effect sensors on Steam Controller](https://www.reddit.com/r/SteamControllerMods/comments/1drrrtd/replaced_the_joystick_with_hall_effect_sensors_on/)
-- [Steam Controller: I can has Hall Effect module!](https://lemmy.ml/post/16810625)
-- [Joystick Cap Swap / Upgrade For The Steam Controller](https://www.youtube.com/shorts/JH8CmCkltzY)
+### [Joystick Cap & Module](./Markdown/Joystick.md)
+
+### [USB Port](./Markdown/USB_Port.md)
 
 ### Trackpads
 - [Quieter & Softer Trackpad Mod For The Steam Controller](https://www.youtube.com/shorts/NYpm2bWQAME)
@@ -26,11 +25,6 @@ The controller is easily modifiable and repairable with the right tools.
 
 ### Front Plate Buttons
 - [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
-
-### USB Port
-- [Usb-C steam controller](https://web.archive.org/web/20201119024700/https://www.reddit.com/r/SteamController/comments/i0pzzy/)
-    - [Wiring Guide](https://web.archive.org/web/20220713150853/https://i.imgur.com/dqzbJLd.jpg)
-- [USB-C Steam Controller mod + aluminum thumbstick](https://www.reddit.com/r/SteamControllerMods/comments/1bs75w9/usbc_steam_controller_mod_aluminum_thumbstick/)
 
 ## Additional Resources & Interesting Things
 - [iFixit Guides And Teardowns](https://www.ifixit.com/Device/Steam_Controller)
