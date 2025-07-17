@@ -157,3 +157,19 @@
 
 ### Disassembled Steam Controller
 ![Disassembled](../Images/Disassembly/42_Disassembled.jpg)
+
+## Other Parts
+
+### Disassembling The Triggers
+
+### Disassembling The Trackpads
+
+## Desoldering Board Components
+
+### Battery Contact Holders
+
+### Antenna
+
+### USB Port
+
+### Joystick Module
