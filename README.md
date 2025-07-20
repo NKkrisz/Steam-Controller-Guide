@@ -9,7 +9,9 @@ Information about different connection modes, updating firmware, Bluetooth suppo
 ## Hardware
 The controller is easily modifiable and repairable with the right tools.
 
-### [Full Disassembly Guide](./Markdown/Disassembly.md)
+### [Teardown Guide](./Markdown/Teardown.md)
+
+### [Soldering Guide](./Markdown/Soldering.md)
 
 ### [3D Printing Parts](./Markdown/3D_Printing_Parts.md)
 
