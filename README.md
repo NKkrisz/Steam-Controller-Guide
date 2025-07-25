@@ -7,7 +7,16 @@ Information about Steam Controller:
 Information about different connection modes, updating firmware, Bluetooth support etc...
 
 ## Hardware
-The controller is easily modifiable and repairable with the right tools.
+The controller is mostly easy to modify and repair with the right tools.
+
+**Example - NKkrisz's Modded Steam Controller:**
+- Transparent Parts (Shell, Buttons, Trackpads, Joystick etc...)
+- Micro-USB To USB-C Swap
+- TMR Joystick Module Upgrade
+- Quieter, Softer Trackpads And Triggers (Foam And Tape)
+![NKkrisz's Transparent Modded Steam Controller](./Images/Modded_Controllers/NKkrisz_Transparent.jpg)
+![NKkrisz's Transparent Modded Steam Controller - USB-C Port](./Images/Modded_Controllers/NKkrisz_Transparent_USB_C.jpg)
+![NKkrisz's Transparent Modded Steam Controller - TMR Joystick Module](./Images/Modded_Controllers/NKkrisz_Transparent_Joystick.jpg)
 
 ### [Teardown Guide](./Markdown/Teardown.md)
 
