@@ -9,15 +9,6 @@ Information about different connection modes, updating firmware, Bluetooth suppo
 ## Hardware
 The controller is mostly easy to modify and repair with the right tools.
 
-**Example - NKkrisz's Modded Steam Controller:**
-- Transparent Parts (Shell, Buttons, Trackpads, Joystick etc...)
-- Micro-USB To USB-C Swap
-- TMR Joystick Module Upgrade
-- Quieter, Softer Trackpads And Triggers (Foam And Tape)
-![NKkrisz's Transparent Modded Steam Controller](./Images/Modded_Controllers/NKkrisz_Transparent.jpg)
-![NKkrisz's Transparent Modded Steam Controller - USB-C Port](./Images/Modded_Controllers/NKkrisz_Transparent_USB_C.jpg)
-![NKkrisz's Transparent Modded Steam Controller - TMR Joystick Module](./Images/Modded_Controllers/NKkrisz_Transparent_Joystick.jpg)
-
 ### [Teardown Guide](./Markdown/Teardown.md)
 
 ### [Soldering Guide](./Markdown/Soldering.md)
@@ -36,6 +27,16 @@ The controller is mostly easy to modify and repair with the right tools.
 
 ### Front Plate Buttons
 - [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
+
+### Example: NKkrisz's Modded Steam Controller
+- Transparent Parts (Shell, Buttons, Trackpads, Joystick etc...)
+- Micro-USB To USB-C Swap
+- TMR Joystick Module Upgrade
+- Quieter, Softer Trackpads And Triggers (Foam And Tape)
+
+![NKkrisz's Transparent Modded Steam Controller](./Images/Modded_Controllers/NKkrisz_Transparent.jpg)
+![NKkrisz's Transparent Modded Steam Controller - USB-C Port](./Images/Modded_Controllers/NKkrisz_Transparent_USB_C.jpg)
+![NKkrisz's Transparent Modded Steam Controller - TMR Joystick Module](./Images/Modded_Controllers/NKkrisz_Transparent_Joystick.jpg)
 
 ## Additional Resources & Interesting Things
 - [iFixit Guides And Teardowns](https://www.ifixit.com/Device/Steam_Controller)
