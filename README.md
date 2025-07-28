@@ -13,6 +13,8 @@ The controller is mostly easy to modify and repair with the right tools.
 
 ### [Soldering Guide](./Markdown/Soldering.md)
 
+### [Reassembly Guide](./Markdown/Reassembly.md)
+
 ### [3D Printing Parts](./Markdown/3D_Printing_Parts.md)
 
 ### [Joystick Cap & Module](./Markdown/Joystick.md)
