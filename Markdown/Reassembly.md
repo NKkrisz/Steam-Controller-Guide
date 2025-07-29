@@ -3,3 +3,6 @@ Follow (most of) the steps from the [teardown](./Teardown.md) and [soldering](So
 
 ## Tips & Tricks
 - 3D printed replacement parts might need additional work done to them (eg. sanding) to make sure they work correctly
+- Screwing into 3D printed parts might need more force, make sure there is no gap between parts
+- Fully assemble and screw in the battery contacts before trying to solder them back so they stay in place
+- Shims might be needed below the triggers to keep the top cover part from coming off in case it's loose
