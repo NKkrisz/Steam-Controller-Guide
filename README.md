@@ -23,9 +23,12 @@ The controller is mostly easy to modify and repair with the right tools.
 
 ### Trackpads
 - [Quieter & Softer Trackpad Mod For The Steam Controller](https://www.youtube.com/shorts/NYpm2bWQAME)
+- [Steam Controller Mod - Softer Bumper & Touchpad Clicks](https://www.youtube.com/watch?v=nbiIVGCP4eQ)
+- [Steam Controller Mod - Softer Trackpad Click Update](https://www.youtube.com/watch?v=0C_BOfGiAeg)
 
 ### Bumper Buttons
 - [Quieter & Softer Bumper Mod For The Steam Controller](https://www.youtube.com/shorts/ARzfF4CxAJA)
+- [Steam Controller Mod - Softer Bumper & Touchpad Clicks](https://www.youtube.com/watch?v=nbiIVGCP4eQ)
 
 ### Front Plate Buttons
 - [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
