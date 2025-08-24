@@ -41,7 +41,7 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 
 #### Taking Out The Batteries
 - Push in the battery holder levers and then take out the batteries
-- If the batteries are stuck, try prying outwards with thumbs on the top of the batteries
+- If the batteries are stuck, try prying outwards with fingers on the top of the batteries
 
 ![Default_Battery_Holder_Position_Edited](../Images/Disassembly/Teardown/5_Default_Battery_Holder_Position_Edited.jpg)
 ![Push_In_Battery_Holder](../Images/Disassembly/Teardown/6_Push_In_Battery_Holder.jpg)
@@ -58,20 +58,24 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 
 #### Slider In The Back Shell
 - The back shell has the slider to take off the backplate, make sure not to lose the plastic piece and the spring attached to it
-- To take it out, push inwards from the top so it lifts up
 
 ![Slider_In_Back_Shell_Edited](../Images/Disassembly/Teardown/10_Slider_In_Back_Shell_Edited.jpg)
+
+- To take it out, push inwards from the edge that doesn't have the spring so it lifts up
+
 ![Taking_Out_Slider_Edited](../Images/Disassembly/Teardown/11_Taking_Out_Slider_Edited.jpg)
 
 ### Taking Off The Front Shell
 
-#### Front Shell Screw Locations And Battery Holder Levers
+#### Battery Holder Levers And Front Shell Screw Locations
 - The back shell holds the battery holder levers in place, take them off if they haven't fallen off already
+
+![Right_Battery_Holder_Lever](../Images/Disassembly/Teardown/13_Right_Battery_Holder_Lever.jpg)
+![Taking_Out_Left_Battery_Holder_Lever](../Images/Disassembly/Teardown/14_Taking_Out_Left_Battery_Holder_Lever.jpg)
+
 - Take out the (4 long) screws and then slowly lift the board away from the front shell
 
 ![Back_Shell_Off_Edited](../Images/Disassembly/Teardown/12_Back_Shell_Off_Edited.jpg)
-![Right_Battery_Holder_Lever](../Images/Disassembly/Teardown/13_Right_Battery_Holder_Lever.jpg)
-![Taking_Out_Left_Battery_Holder_Lever](../Images/Disassembly/Teardown/14_Taking_Out_Left_Battery_Holder_Lever.jpg)
 
 #### Trackpad Ribbon Cables And Front Buttons Warning
 - Disconnect the trackpad ribbon cables from the board with hands or tweezers
@@ -94,9 +98,12 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 
 #### Front Buttons And Plastic Piece
 - Take out the plastic piece by pulling it upwards
-- Slowly tilt the front shell or push the front buttons inwards from the outside to take them out
+    - There should be a spring underneath it in the square hole, put it in a safe place
 
 ![Taking_Out_Plastic_Piece_Edited](../Images/Disassembly/Teardown/20_Taking_Out_Plastic_Piece_Edited.jpg)
+
+- Slowly tilt the front shell or push the front buttons inwards from the outside to take them out
+
 ![Front_Buttons_Falling_Out_Edited](../Images/Disassembly/Teardown/21_Front_Buttons_Falling_Out_Edited.jpg)
 
 ### Taking Out The Trackpads
@@ -196,7 +203,7 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 ![Trigger_Cap_Off](../Images/Disassembly/Other/Triggers/Trigger_Cap_Off.jpg)
 
 - After getting off the cap, use a flathead screwdriver and push out the metal rod starting from the pointy end
-    - This may require some forcing, be careful and try holding the trigger assembly in a way that won't break off the thin parts
+    - This may require some force, be careful and try holding the trigger assembly in a way that won't break off the thin parts
 
 ![Metal_Bar_1](../Images/Disassembly/Other/Triggers/Metal_Bar_1.jpg)
 ![Metal_Bar_2](../Images/Disassembly/Other/Triggers/Metal_Bar_2.jpg)
@@ -216,9 +223,11 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 
 ### Disassembling The Trackpads
 - First it is recommended to disconnect and desolder the ribbon cable to avoid tearing it
-    - The trackpads' ribbon cables and the rumble motors' cables are held in place by glue underneath them
 
 ![Trackpad_Ribbon_Cable_1](../Images/Disassembly/Other/Trackpads/Trackpad_Ribbon_Cable_1.jpg)
+
+- The trackpads' ribbon cables and the rumble motors' cables are held in place by glue underneath them
+
 ![Trackpad_Ribbon_Cable_2](../Images/Disassembly/Other/Trackpads/Trackpad_Ribbon_Cable_2.jpg)
 
 - Holding down the rumble motor's cable with a spudger between the two solder points can be useful when desoldering
