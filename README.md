@@ -33,6 +33,10 @@ The controller is mostly easy to modify and repair with the right tools.
 ### Front Plate Buttons
 - [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
 
+### Backplate
+- [Life Hack! Softer Back Paddle Grip Clicks DIY Modification - Steam Controller Tutorial / Tip](https://www.youtube.com/watch?v=MRAnlI4amwk)
+- [Backplate With USB Receiver Holder Models To 3D Print](https://store.steampowered.com/news/app/353370/view/3931035846865618326)
+
 ### Example: NKkrisz's Modded Steam Controller
 - Transparent Parts (Shell, Buttons, Trackpads, Joystick etc...)
 - Micro-USB To USB-C Swap
@@ -44,8 +48,9 @@ The controller is mostly easy to modify and repair with the right tools.
 ![NKkrisz's Transparent Modded Steam Controller - TMR Joystick Module](./Images/Modded_Controllers/NKkrisz_Transparent_Joystick.jpg)
 
 ## Additional Resources & Interesting Things
-- [iFixit Guides And Teardowns](https://www.ifixit.com/Device/Steam_Controller)
+- [Steam Controller Mods & Accessories - Videos By RambleCan](https://www.youtube.com/playlist?list=PLMV7bfY2SzbVxrkXYfDa4SwcvdUSwohv8)
 - [OpenSteamController-Continued](https://github.com/MichaelZaugg/OpenSteamController-Continued)
+- [iFixit Guides And Teardowns](https://www.ifixit.com/Device/Steam_Controller)
 - [r/SteamController](https://www.reddit.com/r/SteamController/)
 - [r/SteamControllerMods](https://www.reddit.com/r/SteamControllerMods/)
 - [Steam Controller Discord](https://discord.com/invite/BuANgkG)
