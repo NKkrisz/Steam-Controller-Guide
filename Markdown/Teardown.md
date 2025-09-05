@@ -87,7 +87,7 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 
 ![Board_Separated](../Images/Disassembly/Teardown/16_Board_Separated.jpg)
 
-### Taking Out Front Buttons And Plastic Piece
+### Taking Out The Membrane, Plastic Piece And Front Buttons
 
 #### Membrane
 - Take off the membrane to reveal the front buttons
@@ -96,11 +96,22 @@ For soldered components see the [Soldering Guide](./Soldering.md) after taking t
 ![Taking_Off_Front_Buttons_Membrane](../Images/Disassembly/Teardown/18_Taking_Off_Front_Buttons_Membrane.jpg)
 ![Front_Buttons_Membrane_Off](../Images/Disassembly/Teardown/19_Front_Buttons_Membrane_Off.jpg)
 
-#### Front Buttons And Plastic Piece
-- Take out the plastic piece by pulling it upwards
-    - There should be a spring underneath it in the square hole, put it in a safe place
+#### Plastic Piece
+- Take out the plastic piece by pulling it carefully upwards
+- Beware that there should be a spring underneath it in the square hole, put it in a safe place
 
 ![Taking_Out_Plastic_Piece_Edited](../Images/Disassembly/Teardown/20_Taking_Out_Plastic_Piece_Edited.jpg)
+
+- *Correction:*
+    - **The images below aren't showing the original spring as it was lost** (most likely during my first disassembly)
+    - If you need a replacement you can most likely use a spring from a pen and cut it roughly to the same size as the square hole it goes into
+
+![Correction_1_Plastic_Piece](../Images/Disassembly/Teardown/Correction_1_Plastic_Piece.jpg)
+![Correction_2_Spring_Location](../Images/Disassembly/Teardown/Correction_2_Spring_Location.jpg)
+![Correction_3_Plastic_Piece_And_Spring_Location](../Images/Disassembly/Teardown/Correction_3_Plastic_Piece_And_Spring_Location.jpg)
+![Correction_4_Plastic_Piece_And_Replacement_Spring](../Images/Disassembly/Teardown/Correction_4_Plastic_Piece_And_Replacement_Spring.jpg)
+
+#### Front Buttons
 
 - Slowly tilt the front shell or push the front buttons inwards from the outside to take them out
 
