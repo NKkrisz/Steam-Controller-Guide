@@ -19,23 +19,39 @@ The controller is mostly easy to modify and repair with the right tools.
 
 ### [Joystick Cap & Module](./Markdown/Joystick.md)
 
+![Joystick_Cap](./Images/Modifications/Joystick_Cap.jpg)
+
+![Joystick_Module](./Images/Modifications/Joystick_Module.jpg)
+
 ### [USB Port](./Markdown/USB_Port.md)
+
+![USB_C](./Images/Modifications/USB_C.jpg)
+
+### Front Plate Buttons
+- [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
 
 ### Trackpads
 - [Quieter & Softer Trackpad Mod For The Steam Controller](https://www.youtube.com/shorts/NYpm2bWQAME)
 - [Steam Controller Mod - Softer Bumper & Touchpad Clicks](https://www.youtube.com/watch?v=nbiIVGCP4eQ)
 - [Steam Controller Mod - Softer Trackpad Click Update](https://www.youtube.com/watch?v=0C_BOfGiAeg)
 
+![Quieter_And_Softer_Trackpads](./Images/Modifications/Quieter_And_Softer_Trackpads.jpg)
+
 ### Bumper Buttons
 - [Quieter & Softer Bumper Mod For The Steam Controller](https://www.youtube.com/shorts/ARzfF4CxAJA)
 - [Steam Controller Mod - Softer Bumper & Touchpad Clicks](https://www.youtube.com/watch?v=nbiIVGCP4eQ)
 
-### Front Plate Buttons
-- [Update on Steam Deck face button mod](https://www.reddit.com/r/SteamControllerMods/comments/1erquuf/update_on_steam_deck_face_button_mod/)
+![Quieter_And_Softer_Bumper_Buttons](./Images/Modifications/Quieter_And_Softer_Bumper_Buttons.jpg)
+
+### Triggers
+
+![Quieter_And_Softer_Triggers](./Images/Modifications/Quieter_And_Softer_Triggers.jpg)
 
 ### Backplate
 - [Life Hack! Softer Back Paddle Grip Clicks DIY Modification - Steam Controller Tutorial / Tip](https://www.youtube.com/watch?v=MRAnlI4amwk)
 - [Backplate With USB Receiver Holder Models To 3D Print](https://store.steampowered.com/news/app/353370/view/3931035846865618326)
+
+![Quieter_And_Softer_Backplate](./Images/Modifications/Quieter_And_Softer_Backplate.jpg)
 
 ### Example: NKkrisz's Modded Steam Controller
 - Transparent Parts (Shell, Buttons, Trackpads, Joystick etc...)
