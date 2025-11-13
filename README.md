@@ -1,7 +1,30 @@
-# Steam Controller Guide
+# Steam Controller Guide - Made by [NKkrisz](https://links.nkkrisz.com)
 Information about Steam Controller:
 - Firmware
-- Hardware (Modifications / Repairs)
+- Hardware Modifications And Repairs
+
+## Accompanying Video - the original steam controller.
+[![https://www.youtube.com/watch?v=DlmwQlGzo7E](./Images/Modded_Controllers/NKkrisz_Steam_Controller_Thumbnail.jpg)](https://www.youtube.com/watch?v=DlmwQlGzo7E)
+- I first recommend fully watching this video before trying anything here
+- Click the image to be redirected
+
+## Sponsored By JLC3DP
+- Thanks JLC3DP for sponsoring the previously mentioned video and making this project possible
+- Check them out using the link below:
+    - JLC3DP 3D Printing Starts at $0.3, up to $70 new user coupons: [https://jlc3dp.com/?from=NKkrisz](https://jlc3dp.com/?from=NKkrisz)
+
+## Help Fund Future Projects By Donating
+- You can support me through Ko-fi:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nkkrisz)
+
+## Related Project - [Steam Deck Guide](https://steamdeck.guide)
+- I've also made the [Steam Deck Guide](https://steamdeck.guide) which contains information and guides about the Steam Deck and available modifications.
+
+## Disclaimer
+- This project isn't associated with Valve and modifying your device may void your warranty.
+- The guide is made for educational purposes and may contain mistakes, you're responsible for your own device.
+- Reporting errors and submitting suggestions can be done through the [project's GitHub Issues page](https://github.com/NKkrisz/Steam-Controller-Guide/issues) or by [contacting me](https://links.nkkrisz.com).
 
 ## [Firmware](./Markdown/Firmware.md)
 Information about different connection modes, updating firmware, Bluetooth support etc...
