@@ -1,17 +1,16 @@
 # Steam Controller Guide - Made by [NKkrisz](https://links.nkkrisz.com)
 Information about Steam Controller:
-- Firmware
-- Hardware Modifications And Repairs
+- [Firmware](#firmware)
+- [Hardware Modifications And Repairs](#hardware)
 
-## Accompanying Video - the original steam controller.
+## Accompanying Video - "Steam Controller."
 [![https://www.youtube.com/watch?v=DlmwQlGzo7E](./Images/Modded_Controllers/NKkrisz_Steam_Controller_Thumbnail.jpg)](https://www.youtube.com/watch?v=DlmwQlGzo7E)
-- I first recommend fully watching this video before trying anything here
-- Click the image to be redirected
+- I first recommend fully watching this video before trying anything here.
+- Click the image to be redirected.
 
 ## Sponsored By JLC3DP
-- Thanks JLC3DP for sponsoring the previously mentioned video and making this project possible
-- Check them out using the link below:
-    - JLC3DP 3D Printing Starts at $0.3, up to $70 new user coupons: [https://jlc3dp.com/?from=NKkrisz](https://jlc3dp.com/?from=NKkrisz)
+- Thanks JLC3DP for sponsoring the previously mentioned video and making this project possible.
+- Check them out here - JLC3DP 3D Printing Starts at $0.3, up to $70 new user coupons: [https://jlc3dp.com/?from=NKkrisz](https://jlc3dp.com/?from=NKkrisz)
 
 ## Help Fund Future Projects By Donating
 - You can support me through Ko-fi:
