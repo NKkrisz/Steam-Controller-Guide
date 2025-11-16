@@ -3,7 +3,7 @@ Information about Steam Controller:
 - [Firmware](#firmware)
 - [Hardware Modifications And Repairs](#hardware)
 
-## Accompanying Video - "Steam Controller."
+## Accompanying Video - "The Original Steam Controller."
 [![https://www.youtube.com/watch?v=DlmwQlGzo7E](./Images/Modded_Controllers/NKkrisz_Steam_Controller_Thumbnail.jpg)](https://www.youtube.com/watch?v=DlmwQlGzo7E)
 - I first recommend fully watching this video before trying anything here.
 - Click the image to be redirected.
