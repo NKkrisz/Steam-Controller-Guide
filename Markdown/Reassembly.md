@@ -1,4 +1,4 @@
-# Steam Controller Reassembly Guide
+# Steam Controller (2015) Reassembly Guide
 Follow (most of) the steps from the [teardown](./Teardown.md) and [soldering](Soldering.md) guide but backwards. If stuck, see the tips & tricks section below.
 
 ## Tips & Tricks

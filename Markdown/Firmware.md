@@ -1,4 +1,4 @@
-# Steam Controller Firmware Information
+# Steam Controller (2015) Firmware Information
 - Initially the controller only worked with a wired Micro-USB connection or wirelessly with a USB receiver
 - [An update was released later](https://help.steampowered.com/en/faqs/view/1796-5FC3-88B3-C85F) so the controller can now be used with Bluetooth Low Energy (BLE) as well
     - Some guides I found on how to update the firmware in case the method in the link above doesn't work:

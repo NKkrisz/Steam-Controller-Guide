@@ -1,4 +1,4 @@
-# Steam Controller Soldering Guide
+# Steam Controller (2015) Soldering Guide
 Follow the [Teardown Guide](./Teardown.md) first to get the board out.
 
 ## Tools Needed

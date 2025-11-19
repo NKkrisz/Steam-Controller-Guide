@@ -1,5 +1,5 @@
-# Steam Controller Guide - Made by [NKkrisz](https://links.nkkrisz.com)
-Information about Steam Controller:
+# Steam Controller (2015) Guide - Made by [NKkrisz](https://links.nkkrisz.com)
+Information about Steam Controller (2015):
 - [Firmware](#firmware)
 - [Hardware Modifications And Repairs](#hardware)
 
