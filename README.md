@@ -56,16 +56,19 @@ The controller is mostly easy to modify and repair with the right tools.
 - [Quieter & Softer Trackpad Mod For The Steam Controller](https://www.youtube.com/shorts/NYpm2bWQAME)
 - [Steam Controller Mod - Softer Bumper & Touchpad Clicks](https://www.youtube.com/watch?v=nbiIVGCP4eQ)
 - [Steam Controller Mod - Softer Trackpad Click Update](https://www.youtube.com/watch?v=0C_BOfGiAeg)
+- [[Guide] How to Make the Steam Controller's Shoulder Buttons and Touchpads Easier to Press](https://www.reddit.com/r/SteamControllerMods/comments/1l85owd/guide_how_to_make_the_steam_controllers_shoulder/)
 
 ![Quieter_And_Softer_Trackpads](./Images/Modifications/Quieter_And_Softer_Trackpads.jpg)
 
 ### Bumper Buttons
 - [Quieter & Softer Bumper Mod For The Steam Controller](https://www.youtube.com/shorts/ARzfF4CxAJA)
 - [Steam Controller Mod - Softer Bumper & Touchpad Clicks](https://www.youtube.com/watch?v=nbiIVGCP4eQ)
+- [[Guide] How to Make the Steam Controller's Shoulder Buttons and Touchpads Easier to Press](https://www.reddit.com/r/SteamControllerMods/comments/1l85owd/guide_how_to_make_the_steam_controllers_shoulder/)
 
 ![Quieter_And_Softer_Bumper_Buttons](./Images/Modifications/Quieter_And_Softer_Bumper_Buttons.jpg)
 
 ### Triggers
+- [[Guide] How to Make the Steam Controller's Shoulder Buttons and Touchpads Easier to Press](https://www.reddit.com/r/SteamControllerMods/comments/1l85owd/guide_how_to_make_the_steam_controllers_shoulder/)
 
 ![Quieter_And_Softer_Triggers](./Images/Modifications/Quieter_And_Softer_Triggers.jpg)
 
